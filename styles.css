@@ -1,0 +1,51 @@
+
+
+img{
+    width:400px;
+}
+img{
+    height:300px;
+}
+
+   body{
+        background-color:orange;
+        background-image:linear-gradient(gold,red);
+    }
+    
+    h1{
+        font-family: 'Great Vibes', cursive;}
+
+h2{    font-family: 'Notable', sans-serif;}
+
+h2:hover{
+color:red;
+}
+ p{
+     font-family: 'Playfair Display SC', serif;
+ }
+ 
+ .new{
+     color:yellow;
+ }
+ 
+ .comedy:hover{
+     color:yellow;
+     border-style:dotted;
+ }
+ 
+ .salad:hover{
+     border-style:dotted;
+     color:yellow;}
+     
+     .shows:hover{
+         border-style:dotted;
+         color:yellow;
+     }
+     
+     .vid:hover{
+         border-style:ridge;
+         color:yellow;
+     }
+     .list{
+      list-style:inside;   
+     }
